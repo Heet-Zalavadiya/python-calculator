@@ -17,7 +17,8 @@ Copy code
 - **Tangent (tan)** – Trigonometric tangent function.
 
 
-##Usage
+## Usage
+
 Run the script calculator.py.
 The program will display a menu with options for different operations.
 Choose an operation by entering the corresponding number.
@@ -38,7 +39,9 @@ Select operation:
 Enter choice (1/2/3/4/5/6/7/8/9): 5
 Enter number: 16
 Square root: 4.0
-##Contributing
+
+## Contributing
+
 Contributions are welcome! If you'd like to help improve this project, you can:
 
 Fork the repository.
