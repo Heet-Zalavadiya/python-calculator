@@ -51,5 +51,5 @@ Commit your changes and push them to your forked repository.
 Create a pull request with a description of the changes you've made.
 For more detailed contributing instructions, please see the CONTRIBUTING.md file.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
