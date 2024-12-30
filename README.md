@@ -1,8 +1,6 @@
 # python-calculator
 A simple and easy-to-use my First Python-based calculator  project that supports basic arithmetic operations (addition, subtraction, multiplication, division), along with advanced mathematical functions such as square roots, exponentiation, and trigonometric functions (sin, cos, tan).
-Features
-markdown
-Copy code
+
 
 ## Features
 
@@ -24,8 +22,7 @@ The program will display a menu with options for different operations.
 Choose an operation by entering the corresponding number.
 Follow the prompts to enter the numbers and receive the result.
 Example Usage:
-bash
-Copy code
+
 Select operation:
 1. Add
 2. Subtract
@@ -44,12 +41,12 @@ Square root: 4.0
 
 Contributions are welcome! If you'd like to help improve this project, you can:
 
-Fork the repository.
-Create a new branch.
-Make your changes.
-Commit your changes and push them to your forked repository.
-Create a pull request with a description of the changes you've made.
-For more detailed contributing instructions, please see the CONTRIBUTING.md file.
+1. Fork the repository
+2. Create a new branch
+3. Make your changes
+4. Commit your changes and push them to your forked repository
+5. Create a pull request with a description of the changes you've made
+6. For more detailed contributing instructions, please see the CONTRIBUTING.md file
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
