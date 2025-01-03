@@ -21,6 +21,14 @@ Thanks for your interest in contributing! You can contribute directly through Gi
    - Fill in the issue title and description to let us know what you'd like to discuss or fix.
 
 ## Additional Guidelines
-
 - Please ensure that your changes are useful and improve the project.
 - If you are submitting a feature request or bug fix, please include as much detail as possible.
+- **Python Code or Other Language Contributions**
+- *Python-only Contributions:*
+- If you are contributing Python code, follow PEP 8 (Python's style guide), and include comments for clarity.
+- Add tests for new features or bug fixes (e.g., using unittest or pytest).
+- Update the README.md if you add new features.
+- *C or Java Code Contributions:*
+- If you're contributing in C or Java, simply add your code as separate files (e.g., .c or .java files).
+- Provide a description of the feature or function you've added when creating your pull request.
+
